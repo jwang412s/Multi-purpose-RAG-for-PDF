@@ -1,0 +1,14 @@
+# Streamlit for the web interface
+streamlit>=0.88.0
+
+# Langchain Community libraries
+langchain-community>=0.0.1
+
+# PyPDF2 for PDF handling
+PyPDF2>=1.26.0
+
+# Chroma for vector stores
+chroma>=0.0.1
+
+# Ollama for the language model
+ollama>=0.0.1
